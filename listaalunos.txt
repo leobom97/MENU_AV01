@@ -1,0 +1,6 @@
+Leonardo; 25
+Ana; 19
+Lukas; 32
+Brenno; 25
+Rodrigo; 32
+José; 35; 7.133333333333333
